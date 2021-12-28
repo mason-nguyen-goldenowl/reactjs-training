@@ -12,7 +12,7 @@
     "by": false,
     "__DEV__": false
   },
-  "parser": "babel-eslint",
+
   "plugins": ["react", "jsx-a11y"],
   "rules": {
     "no-unexpected-multiline": "error",
@@ -22,7 +22,7 @@
     "react/prop-types": [0],
     "global-require": [0],
     "react/prefer-stateless-function": [0],
-    "react/destructuring-assignment": [0],
+    "react/destructuring-aXssignment": [0],
     "react/jsx-one-expression-per-line": [0],
     "react/jsx-no-bind": [0],
     "object-curly-newline": ["error", { "multiline": true }],
